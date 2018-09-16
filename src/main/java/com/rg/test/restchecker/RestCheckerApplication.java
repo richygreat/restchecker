@@ -7,8 +7,8 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
 @EnableSwagger2
-public class MarketoApplication {
+public class RestCheckerApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(MarketoApplication.class, args);
+		SpringApplication.run(RestCheckerApplication.class, args);
 	}
 }
